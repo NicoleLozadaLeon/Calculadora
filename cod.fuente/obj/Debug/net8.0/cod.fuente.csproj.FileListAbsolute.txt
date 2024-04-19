@@ -1,0 +1,15 @@
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\bin\Debug\net8.0\cod.fuente.exe
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\bin\Debug\net8.0\cod.fuente.deps.json
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\bin\Debug\net8.0\cod.fuente.runtimeconfig.json
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\bin\Debug\net8.0\cod.fuente.dll
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\bin\Debug\net8.0\cod.fuente.pdb
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.AssemblyInfoInputs.cache
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.AssemblyInfo.cs
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.csproj.CoreCompileInputs.cache
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.sourcelink.json
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.dll
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\refint\cod.fuente.dll
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.pdb
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\cod.fuente.genruntimeconfig.cache
+C:\Users\ravzr\Escritorio\myapp\Calculadora\cod.fuente\obj\Debug\net8.0\ref\cod.fuente.dll
