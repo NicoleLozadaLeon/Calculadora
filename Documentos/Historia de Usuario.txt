@@ -1,0 +1,44 @@
+# Historia de Usuario No. 001
+
+## Calculadora
+
+`Como usuario, necesito realizar operaciones aritméticas básicas (suma, resta, multiplicación, división y potenciación) usando una calculadora para poder resolver problemas matemáticos de forma rápida y precisa.`
+
+## Descripción
+
+La necesidad de una calculadora funcional que permita realizar operaciones aritméticas básicas con facilidad.
+
+## Criterios de Aceptación
+
+Lista detallada de condiciones que debe cumplir la historia para considerarse completada.
+
+1. **Realizar con precisión las operaciones aritméticas básicas**
+   - Debe permitir sumar
+   - Debe permitir restar
+   - Debe permitir multiplicar
+   - Debe permitir dividir
+2. **Realizar operaciones con potenciación**
+   - Debe permitir elevar  la potencia
+## Prioridad
+
+Media
+
+## Estimación
+
+Una semana
+
+## Notas/Tareas Adicionales
+
+- [ ] Implementar el manejo de errores para entradas inválidas, como caracteres no numéricos o división por cero.
+
+## Discusiones
+
+1. **Discusión 1**
+   - El equipo debatió si incluir una función de historial para la calculadora.
+   - El equipo decidió implementar una función de historial como una característica opcional en una iteración futura.
+
+## Historial de Cambios
+
+Registro de cambios significativos en la historia de usuario, incluyendo fechas y detalles del cambio.
+
+- **[18/04]** Cambio realizado por [Nicole Lozada] - Historia de usuario iniciada por Nicole
